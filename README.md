@@ -13,3 +13,4 @@ Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubSpecial) to fin
 * Unreal Project and VS Project created
 * Terrain Iteration 01
 * Tank Model Blueprint Created
+* Tank Camera Rotation on X and Y
