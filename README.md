@@ -12,3 +12,4 @@ Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubSpecial) to fin
 * Set up README.md
 * Unreal Project and VS Project created
 * Terrain Iteration 01
+* Tank Model Blueprint Created
