@@ -15,3 +15,4 @@ Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubSpecial) to fin
 * Tank Model Blueprint Created
 * Tank Camera Rotation on X and Y
 * Main Menu created and linked to BattleGround level / Game Packaging Test Success
+* Tank Aiming Components created and Projectile start and end points located
